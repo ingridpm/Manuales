@@ -107,11 +107,6 @@
 						</ul>
 					</ul><br/>
 					<br/>
-					<h4>Ejemplos</h4>
-					<p>Estos son ejemplos de internet, por lo que probablemente no tengan todas las consideraciones anteriores. Solamente son para tomar una guía.</p>
-					<a href="Ejemplos/tecnico1.pdf" target="_blank">Ejemplo 1</a><br/>
-					<a href="Ejemplos/tecnico2.pdf" target="_blank">Ejemplo 2</a><br/>
-					<a href="Ejemplos/tecnico3.pdf" target="_blank">Ejemplo 3</a>
 					</div>
                 </div>
                 <!-- Portfolio Grid Items-->
@@ -130,8 +125,40 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                    <div class="col-lg-4 ml-auto">
+					<p class="lead">El manual de usuario es la documentación que proveemos a los usuarios finales para aydarlos a tener éxito en el uso de nuestro sistema. Este documento se entrega junto al programa para ayudar a quien lo tenga a aprender como usarlo apropiadamente. En general, el manual de usuario debería poder ser entendido por cualquier usuario, y va dirigido a un público más general, el cual no necesariamente tiene conocimientos de programación.</p> <img src="assets/img/ma.png" align="right" style="width:50%"/> 
+					<p class="lead">El manual de usuario tiene como objetivo instruir al usuario en el uso del sistema, informar de restricciones y dar solución a los problemas con los que se pueda topar durante la ejecución.</p>
+					<ul>
+						<li>Identificación del documento</li>
+						<li>Objetivos del sistema</li>
+						<li>Información sobre el sistema</li>
+						<li>Requisitos del sistema</li>
+						<li>Interfaz Gráfica</li>
+						<li>Flujo de las funcionalidades del sistema</li>
+					</ul>
+					</div>
+                    <div class="col-lg-4 mr-auto">
+					<h6>Identificación del documento</h6><p>Nombre del proyecto, e indicar que es el manual técnico.</p><br/>
+					<h6>Objetivos del sistema</h6><p>¿A quién va dirigido el sistema? ¿Para qué se hizo el sistema?</p><br/>
+					<h6>Información del sistema</h6><p>¿Qué hace el sistema?</p><br/>
+					<h6>Requisitos del sistema</h6>
+					<p>Los requisitos del sistema que sea necesario mencionar, por ejemplo:</p>
+					<ul>
+					<li>Procesador</li>
+					<li>RAM</li>
+					<li>Espacio en disco</li>
+					<li>Sistema Operativo</li>
+					<li>Resolución gráfica</li>
+					<li>Navegador de Internet</li>
+					<li>Herramientas</li>
+					</ul>
+					<p>Deben incluirse todas las herramientas que el usuario deba tener instaladas para poder hacer funcionar la apliación</p>
+					<br/>
+					<h6>Interfaz gráfica</h6>
+					<p>Se colocan imágenes de la interfaz gráfica principal y se señalan las partes o botones para indicar para qué sirve cada uno.</p><br/>
+					<h6>Flujo de las funcionalidades del sistema</h6>
+					<p>Se indica con imágenes y pasos cuál es el flujo del cada una de las funcionalidades del sistema, desde cómo se abre la aplicación, cómo se realiza cada actividad, y como se cierra.</p><br/>
+					</div>
                 </div>
             </div>
         </section>
@@ -139,7 +166,7 @@
         <section class="page-section" id="contact">
             <div class="container">
                 <!-- Contact Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Preguntas</h2>
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Ejemplos</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom">
                     <div class="divider-custom-line"></div>
@@ -149,34 +176,16 @@
                 <!-- Contact Section Form-->
                 <div class="row">
                     <div class="col-lg-8 mx-auto">
-                        <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19.-->
-						<p>Ingresa tu información y la pregunta</p>
-                        <form id="contactForm" name="sentMessage" novalidate="novalidate">
-                            <div class="control-group">
-                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-                                    <label>Nombre</label>
-                                    <input class="form-control" id="name" type="text" placeholder="Nombre" required="required" data-validation-required-message="Ingresa tu nombre." />
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="control-group">
-                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-                                    <label>Correo</label>
-                                    <input class="form-control" id="email" type="email" placeholder="Correo" required="required" data-validation-required-message="Ingresa tu correo" />
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <div class="control-group">
-                                <div class="form-group floating-label-form-group controls mb-0 pb-2">
-                                    <label>Mensaje</label>
-                                    <textarea class="form-control" id="message" rows="5" placeholder="Mensaje" required="required" data-validation-required-message="Mensaje"></textarea>
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div>
-                            <br />
-                            <div id="success"></div>
-                            <div class="form-group"><button class="btn btn-primary btn-xl" id="sendMessageButton" type="submit">Send</button></div>
-                        </form>
+						<p>Estos son ejemplos de internet, por lo que probablemente no tengan todas las consideraciones anteriores. Solamente son para tomar una guía.</p>
+						<br/>
+						<h6>Técnico</h6>
+						<a href="Ejemplos/tecnico1.pdf" target="_blank">Ejemplo Manual Técnico 1</a><br/>
+						<a href="Ejemplos/tecnico2.pdf" target="_blank">Ejemplo Manual Técnico 2</a><br/>
+						<a href="Ejemplos/tecnico3.pdf" target="_blank">Ejemplo Manual Técnico 3</a>
+						<br/>
+						<h6>De usuario</h6>
+						<a href="Ejemplos/usuario1.pdf" target="_blank">Ejemplo Manual de Usuario 1</a><br/>
+						<a href="Ejemplos/usuario2.pdf" target="_blank">Ejemplo Manual de Usuario 2</a><br/>
                     </div>
                 </div>
             </div>
