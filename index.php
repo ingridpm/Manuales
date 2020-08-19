@@ -64,7 +64,7 @@
                 </div>
 				<div class="row">
                     <div class="col-lg-4 ml-auto">
-					<img src="assets/img/ma.png" align="left" style="width:50%"/> <p class="lead">Un manual técnico es un documento que va dirigido a un público con conocimientos técnicos sobre el área en la que estamos trabajando, en este caso, hablando de un proyecto de programación, va dirigido a una persona que tenga conocimientos en programación.</p> <p class="lead">Este documento debe contener toda la información sobre los recursos utilizados en el proyecto, el equipo utilizado, y una explicación detallada de todo lo que se ha realizado dentro del proyecto.</p>
+					<img src="assets/img/tecnico.png" align="left" style="width:50%"/> <p class="lead">Un manual técnico es un documento que va dirigido a un público con conocimientos técnicos sobre el área en la que estamos trabajando, en este caso, hablando de un proyecto de programación, va dirigido a una persona que tenga conocimientos en programación.</p> <p class="lead">Este documento debe contener toda la información sobre los recursos utilizados en el proyecto, el equipo utilizado, y una explicación detallada de todo lo que se ha realizado dentro del proyecto.</p>
 					<p class="lead">Normalmente un manual técnico va dirigido a otros programadores o administradores del sistema, con la finalidad de que se pueda conocer de mejor manera cómo se realizó el programa y cómo funciona, para poder darle mantenimiento cuando se requiera, o hacer cambios, sin que la persona que desarrolló el sistema esté presente.</p>
 					<p class="lead">A nivel del laboratorio, el manual técnico como mínimo debe contener:</p>
 					<ul>
@@ -126,7 +126,7 @@
                 <!-- About Section Content-->
                 <div class="row">
                     <div class="col-lg-4 ml-auto">
-					<p class="lead">El manual de usuario es la documentación que proveemos a los usuarios finales para aydarlos a tener éxito en el uso de nuestro sistema. Este documento se entrega junto al programa para ayudar a quien lo tenga a aprender como usarlo apropiadamente. En general, el manual de usuario debería poder ser entendido por cualquier usuario, y va dirigido a un público más general, el cual no necesariamente tiene conocimientos de programación.</p> <img src="assets/img/ma.png" align="right" style="width:50%"/> 
+					<p class="lead">El manual de usuario es la documentación que proveemos a los usuarios finales para aydarlos a tener éxito en el uso de nuestro sistema. Este documento se entrega junto al programa para ayudar a quien lo tenga a aprender como usarlo apropiadamente. En general, el manual de usuario debería poder ser entendido por cualquier usuario, y va dirigido a un público más general, el cual no necesariamente tiene conocimientos de programación.</p> <img src="assets/img/usuario.png" align="right" style="width:50%"/> 
 					<p class="lead">El manual de usuario tiene como objetivo instruir al usuario en el uso del sistema, informar de restricciones y dar solución a los problemas con los que se pueda topar durante la ejecución.</p>
 					<ul>
 						<li>Identificación del documento</li>
